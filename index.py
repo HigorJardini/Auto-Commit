@@ -1,4 +1,4 @@
-f = open("text.txt", "a")
-f.write("New Line\n")
+f = open("../dangerProject/text.txt", "a")
+f.write("Aincrad\n")
 f.close()
 
